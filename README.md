@@ -78,7 +78,7 @@ Now get your PDA:
 var pda = grammarton.GetPushdownAutomaton(E);
 ```
 
-E - is axiom of the grammar
+E - is the axiom of the grammar
 
 You can get recognition result:
 ```C#
